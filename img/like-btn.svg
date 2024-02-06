@@ -1,0 +1,20 @@
+<svg width="49.962158" height="50.000000" viewBox="0 0 49.9622 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_485">
+			<rect id="icon_heart" width="19.984859" height="20.000000" transform="translate(14.988525 15.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip1_488">
+			<rect id="icon_heart-fill" width="19.984859" height="20.000000" transform="translate(14.988525 15.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<ellipse id="Ellipse 20" cx="24.980957" cy="25.000000" rx="24.981075" ry="25.000000" fill="#F9EAEA" fill-opacity="1.000000"/>
+	<rect id="icon_heart" width="19.984859" height="20.000000" transform="translate(14.988525 15.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_485)"/>
+	<rect id="icon_heart-fill" width="19.984859" height="20.000000" transform="translate(14.988525 15.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_488)">
+		<path id="Vector" d="M19.9846 16.25C22.7451 16.25 24.981 18.4438 24.981 21.15C24.981 18.4438 27.2168 16.25 29.9771 16.25C32.7375 16.25 34.9734 18.4438 34.9734 21.15C34.9734 25.2287 30.9338 26.6675 25.4707 33.16C25.4104 33.2313 25.3354 33.2886 25.251 33.3279C25.1663 33.3672 25.0742 33.3876 24.981 33.3876C24.8877 33.3876 24.7957 33.3672 24.7109 33.3279C24.6265 33.2886 24.5515 33.2313 24.4912 33.16C19.0281 26.6675 14.9885 25.2287 14.9885 21.15C14.9885 18.4438 17.2244 16.25 19.9846 16.25Z" fill="#F02323" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
